@@ -1,0 +1,54 @@
+.activeStyleLogo {
+  font-size: 18px;
+  color: rgb(176, 179, 6);
+  padding: 5px;
+  transition-duration: 0.3s;
+}
+
+.logo-text-first {
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.logo-text-first:hover {
+  color: rgb(72, 75, 72);
+}
+
+.custom {
+  text-decoration: none;
+  color: rgb(56, 54, 54);
+  margin-left: 5px;
+  font-size: 16px;
+}
+
+.custom:hover {
+  color: rgb(37, 224, 37);
+  /* border-bottom: 2px solid rgb(105, 109, 106); */
+  padding-bottom: 2px;
+  /* border-radius: 3px; */
+}
+
+.custom-logout {
+  text-decoration: none;
+  color: rgb(245, 243, 243);
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  background-color: rgb(231, 39, 39);
+  padding: 8px 20px;
+}
+
+.custom-logout:hover {
+  color: rgb(245, 243, 243);
+  background-color: rgb(250, 52, 45);
+}
+
+.activeStyle {
+  color: rgb(176, 179, 6);
+  padding: 5px;
+  transition-duration: 0.3s;
+}
+
+.header-user {
+  max-width: 170px;
+}
